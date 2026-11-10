@@ -1,0 +1,51 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Dhamodharan KKP
+  structure:
+    - type: section
+      key: section-1
+      title: Home
+      path: dhamodaran-kkp
+      description: ""
+      icon: house-chimney-user
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Docs
+          path: docs
+          default: true
+          content:
+            directory: ./dhamodaran-kkp/docs
+    - type: section
+      key: section-2
+      title: Projects
+      path: projects
+      description: ""
+      icon: diagram-project
+      children:
+        - type: space
+          key: space-2
+          title: Projects
+          path: untitled
+          default: true
+          content:
+            directory: ./projects/untitled
+        - type: space
+          key: space-3
+          title: Tinkering
+          path: tinkering
+          content:
+            directory: ./projects/tinkering
+        - type: space
+          key: space-4
+          title: Instructables
+          path: instructables
+          content:
+            directory: ./projects/instructables
+        - type: space
+          key: space-5
+          title: iNaturalist
+          path: inaturalist
+          content:
+            directory: ./projects/inaturalist
