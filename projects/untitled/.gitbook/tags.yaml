@@ -1,0 +1,12 @@
+- tag: tag
+  label: Computational Tinkering
+  icon: desktop
+  color: red
+- tag: turtle-art
+  label: Turtle Art
+  icon: turtle
+  color: pink
+- tag: 3d-printing
+  label: 3D Printing
+  icon: cube
+  color: violet
