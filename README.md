@@ -1,6 +1,6 @@
 # Hi there, I'm Dhamodharan KKP 👋
 
-> **Program & Digital Initiatives Enabler — Payir | Independent Researcher | Senior Design Engineer — Tecplore**  
+> **Program & Digital Initiatives Enabler — Payir | Independent Researcher | Design Engineer — Tecplore**  
 > *Tiruchirappalli, Tamil Nadu, India*
 
 Welcome to my GitHub profile workspace. I focus on technology enablement, procedural CAD modeling, additive manufacturing research, and spatial computing.
@@ -24,7 +24,7 @@ Welcome to my GitHub profile workspace. I focus on technology enablement, proced
 
 * **Program & Digital Initiatives Enabler @ Payir:** Focusing on beginner-level AI workflows, Google Workspace automations, and foundational NGO administrative workflows to support rural community operations.
 * **Independent Open Research:** Facilitating creative learning experiences, tinkering workshops, physical computing, and exploratory maker projects grounded in constructionist pedagogy. *(Note: Doing open research in this area only; not directly teaching students).*
-* **Senior Design Engineer @ Tecplore:** Specializing strictly in **Additive Manufacturing** (DfAM, 3D printing pipelines) and **AR / WebXR** spatial experiences.
+* **Design Engineer @ Tecplore:** Specializing strictly in **Additive Manufacturing** (DfAM, 3D printing pipelines) and **AR / WebXR** spatial experiences.
 * **Mentorship:** Past / periodic roles (Vivo Ignite 2026, Naan Mudhalvan) — *not fully active*.
 * **Background:** 9+ years in collegiate engineering education (MAMCET & MIET), 7 years as a precision machining entrepreneur, and industrial sourcing/design roles. M.E. Manufacturing Engineering (Distinction/Honors, Anna University).
 
