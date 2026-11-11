@@ -24,7 +24,7 @@ Welcome to my GitHub profile workspace. I focus on technology enablement, proced
 
 * **Program & Digital Initiatives Enabler @ Payir:** Focusing on beginner-level AI workflows, Google Workspace automations, and foundational NGO administrative workflows to support rural community operations.
 * **Independent Open Research:** Facilitating creative learning experiences, tinkering workshops, physical computing, and exploratory maker projects grounded in constructionist pedagogy. *(Note: Doing open research in this area only; not directly teaching students).*
-* **Design Contributor @ Tecplore:** Contributing technical models strictly in **Additive Manufacturing** (DfAM, 3D printing pipelines) and **AR / WebXR** spatial experiences *(voluntary project collaboration; non-salaried)*.
+* **Design Contributor @ Tecplore:** Contributing technical designs strictly in **Additive Manufacturing** (DfAM, 3D printing pipelines) and **AR / WebXR** spatial interactive applications.
 * **Mentorship:** Past / periodic roles (Vivo Ignite 2026, Naan Mudhalvan) — *not fully active*.
 * **Background:** 9+ years in collegiate engineering education (MAMCET & MIET), 7 years as a precision machining entrepreneur, and industrial sourcing/design roles. M.E. Manufacturing Engineering (Distinction/Honors, Anna University).
 
